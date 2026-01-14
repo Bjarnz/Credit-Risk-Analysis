@@ -10,6 +10,7 @@ Dataset: [UCI Credit Card Default on Kaggle](https://www.kaggle.com/datasets/uci
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook Credit_Risk_Analysis.ipynb
+```
 
 # Key Results and Insights
 
